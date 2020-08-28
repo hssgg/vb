@@ -1,0 +1,14 @@
+{
+    "name": "vb",
+    "description": "vb",
+    "keywords": ["vb"],
+    "env": {
+        "UUID": {
+            "description": "UUID",
+            "value": ""
+        }
+    },
+    "website": "https://google.com",
+    "repository": "https://github.com/hssgg/vb",
+    "stack": "container"
+}
